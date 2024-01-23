@@ -9,3 +9,4 @@ Sample audio file:
 https://github.com/onyekaokonji/AI-powered-Speech-transcription-and-Language-translation/assets/40724187/62aefb1c-1463-4864-b70f-01f8143f259e
 
 Output of transcription:
+<img width="1127" alt="transcription" src="https://github.com/onyekaokonji/AI-powered-Speech-transcription-and-Language-translation/assets/40724187/39bf527c-a162-4d51-ad00-aedd2a7c313b">
